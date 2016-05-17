@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Pinegrow",
+          "submenu": [
+            {
+              "label": "Select element in Pinegrow",
+              "command": "pinegrow-atom:select-in-pg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
