@@ -1,5 +1,5 @@
-# pinegrow-atom package
+# Pinegrow + Atom
 
-A short description of your package.
+Enables live editing with Pinegrow Web Editor. Changes done in Pinegrow are synced to Atom and vice versa. Selecting element in Pinegrow highlights it in Atom. Pressing CTRL+ALT+P in Atom selects the active element in Pinegrow. 
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+**Pinegrow 2.9 is required.**
