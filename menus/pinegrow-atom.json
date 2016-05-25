@@ -7,18 +7,22 @@
         {
           "label": "Pinegrow",
           "submenu": [
-            {
-              "label": "Select element in Pinegrow",
-              "command": "pinegrow-atom:select-in-pg"
-          },
-          {
-            "label": "Detect PG <-> Atom file path mapping",
-            "command": "pinegrow-atom:detect-mapping"
-          },
-          {
-            "label": "Reconnect to Pinegrow",
-            "command": "pinegrow-atom:reconnect"
-          }
+              {
+                "label": "Select element in Pinegrow",
+                "command": "pinegrow-atom:select-in-pg"
+              },
+              {
+                "label": "Detect PG <-> Atom file path mapping",
+                "command": "pinegrow-atom:detect-mapping"
+              },
+              {
+                "label": "Reconnect to Pinegrow",
+                "command": "pinegrow-atom:reconnect"
+              },
+              {
+                "label": "Download Pinegrow",
+                "command": "pinegrow-atom:download-pinegrow"
+              }
           ]
         }
       ]
