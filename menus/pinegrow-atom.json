@@ -8,8 +8,12 @@
           "label": "Pinegrow",
           "submenu": [
               {
-                "label": "Select element in Pinegrow",
+                "label": "Show element in Pinegrow",
                 "command": "pinegrow-atom:select-in-pg"
+              },
+              {
+                "label": "Open file in Pinegrow",
+                "command": "pinegrow-atom:open-in-pg"
               },
               {
                 "label": "Detect PG <-> Atom file path mapping",

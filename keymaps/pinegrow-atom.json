@@ -1,5 +1,6 @@
 {
   "atom-workspace": {
-    "ctrl-alt-p": "pinegrow-atom:select-in-pg"
+    "ctrl-alt-p": "pinegrow-atom:select-in-pg",
+    "ctrl-alt-o": "pinegrow-atom:open-in-pg"
   }
 }
