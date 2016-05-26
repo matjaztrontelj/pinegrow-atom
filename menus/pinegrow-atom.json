@@ -12,6 +12,10 @@
                 "command": "pinegrow-atom:select-in-pg"
               },
               {
+                "label": "Refresh page",
+                "command": "pinegrow-atom:refresh-page"
+              },
+              {
                 "label": "Open file in Pinegrow",
                 "command": "pinegrow-atom:open-in-pg"
               },
