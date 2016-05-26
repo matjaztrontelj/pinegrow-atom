@@ -1,7 +1,7 @@
 {
   "name": "pinegrow-atom",
   "main": "./lib/pinegrow-atom",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Enable live editing with Pinegrow Web Editor. Changes done in Pinegrow are synced to Atom and vice versa. Selecting element in Pinegrow highlights it in Atom. Pressing CTRL+ALT+P in Atom selects the active element in Pinegrow. Pinegrow 2.9 is required.",
   "keywords": [
     "pinegrow",
