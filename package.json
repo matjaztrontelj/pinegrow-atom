@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "atom-space-pen-views": "^2.0.3",
-    "socket.io-client": "1.4.x"
+    "socket.io-client": "2.1.1"
   },
   "consumedServices": {
     "status-bar": {
